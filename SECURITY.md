@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Supported Versions
+## New line in Security Policy
 
 | Version | Supported          |
 | ------- | ------------------ |

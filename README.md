@@ -2,6 +2,8 @@
 
 # 30 seconds of code
 
+# New line added
+
 > Short code snippets for all your development needs
 
 * Visit [the website](https://30secondsofcode.org) to view the snippet collection.
